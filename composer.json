@@ -1,6 +1,6 @@
 {
-  "name": "dgncan/AdminLTE-Minimal",
-  "description": "AdminLTE 3.4.2 Minimal version",
+  "name": "dgncan/adminlte-minimal",
+  "description": "AdminLTE 2.4.3 Minimal version",
   "homepage": "https://adminlte.io/",
   "type": "template",
   "keywords": [
