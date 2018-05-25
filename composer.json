@@ -1,0 +1,24 @@
+{
+  "name": "dgncan/AdminLTE-Minimal",
+  "description": "AdminLTE 3.4.2 Minimal version",
+  "homepage": "https://adminlte.io/",
+  "type": "template",
+  "keywords": [
+    "css",
+    "js",
+    "less",
+    "responsive",
+    "back-end",
+    "template",
+    "theme",
+    "web",
+    "admin"
+  ],
+  "authors": [
+    {
+      "name": "Doğan Can",
+      "email": "dgncan@gmail.com"
+    }
+  ],
+  "license": "MIT"
+}
